@@ -5,6 +5,8 @@
 
 ![Santiago Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Diniz&show_icons=true&theme=dracula)
 
+![Most language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Diniz&theme=blue-green)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -16,6 +18,8 @@
 <img aling= "center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aling= "center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img aling= "center" alt="microsoft ecxel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img aling= "center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ 
 </div><br/>
 
 Apaixonado por Tecnologia, sempre em busca de conhecimento.
