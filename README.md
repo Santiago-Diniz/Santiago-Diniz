@@ -5,9 +5,10 @@
 
 ![Santiago Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago-Diniz&show_icons=true&theme=dracula)
 
+## Tecnologias que eu uso no meu dia
+
 ![language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Diniz&theme=blue-green)
 
-## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
 
